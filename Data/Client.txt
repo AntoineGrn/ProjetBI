@@ -1,0 +1,6 @@
+ClientID;Nom;Prenom;AnneeNaissance;Sexe;StatutMatrimonial;StatutProfessionnel
+U1001;Gonzalez;Jorge;1989;H;Célibataire;Etudiant
+U1002;Benitez;Luis;1990;H;Célibataire;Etudiant
+U1003;Garcia;Ana;1989;F;Célibataire;Etudiant
+U1004;Martinez;Fernanda;1940;F;Célibataire;En activité
+U1005;Flores;Andrea;1992;F;Célibataire;Etudiant

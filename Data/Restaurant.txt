@@ -1,0 +1,4 @@
+RestaurantID;Nom;Adresse;Ville;Etat;CodePostal;Pays;Latitude;Longitude;Alcool;smoking_area;dress_code;Ambiance;TypeNourriture;Prix;URL
+134999;Kiku Cuernavaca;Revolucion;Cuernavaca;Morelos;;Mexico;18.915421;-99.184871;Non;Non;Informel;Familiale;;Moyen;kikucuernavaca.com.mx
+132825;puesto de tacos;esquina santos degollado y leon guzman;San Luis Potosi;San Luis Potosi;78280;mexico;22.1473922;-100.983092;Non;Non;Informel;Familiale;;Faible;
+135106;El Rincan de San Francisco;Universidad 169;San Luis Potosi;San Luis Potosi;78000;Mexico;22.1497088;-100.9760928;Oui;Oui;Informel;Familiale;;Moyen;
